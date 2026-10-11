@@ -1,5 +1,5 @@
 # Hi 👋, I'm Xianyou Li
-![Minecraft Steve](https://raw.githubusercontent.com/xianyou-li/xianyou-li/main/Steve.png)
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Exploring+Artificial+Intelligence;Learning+by+Building+Projects)
@@ -38,5 +38,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xianyou-li&show_icons=true&theme=tokyonight)
 
 ---
+![Minecraft Steve](https://raw.githubusercontent.com/xianyou-li/xianyou-li/main/Steve.png)
 
 ⭐ Thanks for visiting my profile!
