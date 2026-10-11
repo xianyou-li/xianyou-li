@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Xianyou Li
+![Minecraft Steve](./Steve.png)
+<div align="center">
 
-<!--
-**xianyou-li/xianyou-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Exploring+Artificial+Intelligence;Learning+by+Building+Projects)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineering Student @ Zhejiang University of Technology
+
+🌱 Learning Python, C++ and Artificial Intelligence
+
+🚀 Exploring LLMs, Deep Learning and Open Source
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Undergraduate student at Zhejiang University of Technology
+- 💻 Interested in Artificial Intelligence and Software Development
+- 🌱 Learning programming and computer science fundamentals
+- 🎯 Working towards building meaningful projects
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📌 Featured Projects
+
+- 🔭 Personal Projects — Coming Soon
+- 🤖 AI Projects — Coming Soon
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xianyou-li&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
