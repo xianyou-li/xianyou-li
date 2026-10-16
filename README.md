@@ -14,12 +14,6 @@
 
 
 
-<div align="center">
-
-  <img align="right" src="./Steve.png" width="100" alt="Steve">
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
